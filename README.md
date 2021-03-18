@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lee Cheonggang.
+##<center> Hi, 👋 I'm Cheonggang Lee.</center>
 ---
 <!--
 **cjdrkd7668/cjdrkd7668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
