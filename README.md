@@ -9,5 +9,5 @@
 
 - 🤔 Also, I’m looking for a job as a Back-end developer! <strong>You can contact me at cjddpf@gmail.com</strong>.
 ---
-#### My github stat (with anuraghazra's Github ReadMe Stat) 
+#### My github stats (with anuraghazra's Github ReadMe Stat) 
 ![Cheonggang's github stat](https://github-readme-stats.vercel.app/api?username=cjdrkd7668&show_icons=true)
