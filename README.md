@@ -5,8 +5,8 @@
 #### I'm ...
 - 🔭 I’m currently working on Spring Framework MVC Project as team leader! <em>You can check the progress [here](https://github.com/cjdrkd7668/SsangYongLivingProject)</em>.
 - 🌱 and learning Spring Framework at <em>Ssanngyoung Institute of System Technology</em>.
-
 - 🤔 Also, I’m looking for a job as a Back-end developer! <strong>You can contact me at cjddpf@gmail.com</strong>.
+- Please visit my <strong>[portpolio website](https://cjdrkd7668.github.io/)<strong>!
 ---
 #### My github stats (with anuraghazra's Github ReadMe Stat) 
 ![Cheonggang's github stat](https://github-readme-stats.vercel.app/api?username=cjdrkd7668&show_icons=true)
