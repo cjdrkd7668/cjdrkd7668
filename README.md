@@ -3,7 +3,6 @@
 **cjdrkd7668/cjdrkd7668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 #### I'm ...
-- 🔭 I'm currently in probation period at <strong>[Inspien](http://www.inspien.co.kr/eng/main/main.php)</strong></em>.
 - 🌱 You can contact me at cjddpf@gmail.com</strong>.
 - Please visit my <strong>[portpolio website](https://cjdrkd7668.github.io/)<strong>!
 ---
